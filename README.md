@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -1148,3 +1149,7 @@
   </body>
 </html>
 
+=======
+# CRUD
+Simple REST CRUD(Create Read Update Delete) API using Go Lang and its standard library
+>>>>>>> 32d552c023c6b9ee3488c6a670320d54e421d131
